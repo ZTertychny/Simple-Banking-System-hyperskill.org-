@@ -6,6 +6,6 @@ In account this program allows to perfom following actions:
   1. Balance
   2. Add income
   3. Do transfer
-  4. Close account
+  4. Close account (delete account from DB)
   5. Log out
   0. Exit
